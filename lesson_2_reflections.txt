@@ -1,0 +1,2 @@
+
+when creating a reposotory, using git init, a .get hidden folder gets created, we need a repository to record history of changes made to a number of files in a project
