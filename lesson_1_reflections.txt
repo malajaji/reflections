@@ -1,0 +1,11 @@
+It saved me time looking through huge lines of codes 
+
+Having access to history of a document s allows me to look at the logic used to develop and how it affected the final plan and what errors to avoie, it will help if the history of code was documented with comments 
+
+automtic : tackling forgetting saving or losing data, manually like git, have more logical breakpoints 
+
+in coding files are interdependandent 
+
+using git diff, we see the difference, but using git log we see th elog of changes
+
+I will use git in a way to revert back to changes made 
