@@ -1,1 +1,14 @@
 Trying adding online
+
+
+(git remote) to see the remote repository on github
+(git remote add origin Url) to add a repository 
+(git push origin master) to push master into the remote repository
+(git pull origin master) to pull from the remote repository
+(git clone URL) copies a repository to a machine 
+
+forks: copies of exisiting reposotories from other users in your github account 
+
+clones: copies of reposotories from github in your local machine 
+
+branch: within a reposotiry 

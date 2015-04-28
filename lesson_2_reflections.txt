@@ -1,2 +1,15 @@
 
 when creating a reposotory, using git init, a .get hidden folder gets created, we need a repository to record history of changes made to a number of files in a project
+
+
+staging area s a place where changes are initially made and can used for reviewing
+
+use commit after each logical add to the staging area
+
+branch would be helpful when testing new things and for collaborative efforts
+
+diagrams helps viewing which branch to check for each commit
+
+git log --graph shows a graph of how things moved on. 
+
+Merging branches together resulted in having all changes get saved in the master branch
